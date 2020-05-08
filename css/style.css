@@ -1,0 +1,205 @@
+/* CSS Document */
+
+body {
+    background-color: #f7f8fa !important;
+    
+}
+
+/************* IDs CSS ******/
+
+#top-header {
+    background-color: blue;
+}
+
+
+#content {
+}
+
+#footer {
+}
+
+#news-sticker {
+}
+
+
+/******** Class CSS ***************/
+
+.widget{
+
+}
+
+.ul-rest-left {
+    text-decoration: none;
+    font-size: 100%;
+
+}
+.ul-rest-left > li {
+    float: left;
+    list-style: none;
+    list-style-type: none;
+
+}
+
+
+.social-icons > li {
+    margin-right: 20px;
+
+}
+.social-icons li > a {
+    color: #ffffff;
+}
+
+.btn-flat {
+    border-radius: 0;
+}
+
+.btn-default {
+    color: #fff;
+    background-color: #fff;
+    border-color: #006618;
+    /* color: #333; */
+    /* background-color: #fff; */
+    /* border-color: #ccc; */
+}
+
+.btn-100 {
+    color: #427900;
+    font-size: 70%;
+    padding: 9px;
+    margin-right: 5px;
+
+}
+
+.text-align-justify {
+    text-align: justify;
+}
+
+
+.text-align-center {
+    text-align: center;
+}
+
+/*********************** Theme Style ****************/
+
+/**** Slider **/
+#slider{
+
+}
+
+.slide {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+/******** Navigation Bar ***********/
+
+
+/*** News Ticker **/
+
+#news-sticker .container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#news-sticker .news-headline {
+    border-radius:45px;
+    background-color:rgb(23,81,163);;
+}
+
+#news-sticker .news-tag {
+    border-radius:45px;
+	padding:5px 15px 5px 15px;
+	color:#FFFFFF;
+	text-transform:capitalize;
+	font-size:14px;
+    background: rgb(23,81,163);
+    background: -moz-linear-gradient(48deg, rgba(23,81,163,1) 0%, rgba(69,123,201,1) 45%, rgba(41,97,178,1) 47%, rgba(18,63,129,1) 100%);
+    background: -webkit-linear-gradient(48deg, rgba(23,81,163,1) 0%, rgba(69,123,201,1) 45%, rgba(41,97,178,1) 47%, rgba(18,63,129,1) 100%);
+    background: linear-gradient(48deg, rgba(23,81,163,1) 0%, rgba(69,123,201,1) 45%, rgba(41,97,178,1) 47%, rgba(18,63,129,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1751a3",endColorstr="#123f81",GradientType=1);
+}
+
+
+
+/*************** Components & Style Sheet **************/
+
+/*** page-contant **/
+
+#page-contant{
+    margin-top: 4%;
+    margin-bottom: 4%;
+
+}
+
+#page-contant .page-header {
+    margin-bottom: 4%;
+    text-align: center;
+}
+
+
+/*** Counter - Banner ***/
+#counter-banner {
+    background-color: rgba(36, 79, 242, 1) !important;
+}
+
+.set-banner {
+    padding: 2%;
+}
+.counter-img >img {
+    height: 45px;
+
+}
+.counter-box {
+    text-align: center;
+    color: #ffffff;
+}
+
+
+.counter-box > div {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+
+.counter-title > h1 {
+    font-size: 300%;
+
+}
+
+
+.counter-decs > h4 {
+    font-size: 100%;
+
+}
+
+.counter-decs > h4 span {
+    color: #00FF00;
+    font-size: 120%;
+
+}
+
+
+/*********** Tag Box ***********/
+
+#tag-box{
+
+}
+
+.tag-box {
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    padding: 30px;
+
+}
+.tag-box-shadow {
+    -webkit-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    -moz-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+  }
